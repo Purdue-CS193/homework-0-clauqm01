@@ -1,4 +1,4 @@
-# Quinn Claussen's First 193 Homework
+# Quinn Claussen's First CS193 Homework
 - Student Led class
 - Cool lecturers
 - Meets once a week
