@@ -1,4 +1,9 @@
-## Welcome to GitHub 
+# Quinn Claussen's First 193 Homework
+-Student Led class
+-Cool lecturers
+-Meets once a week
+-A class that teaches stuff that the others may not
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
