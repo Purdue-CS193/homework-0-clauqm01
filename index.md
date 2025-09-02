@@ -2,6 +2,7 @@
 - Student Led class
 - Cool lecturers
 - Meets once a week
+- Optional additional help times
 - A class that teaches stuff that the others may not
 
 
